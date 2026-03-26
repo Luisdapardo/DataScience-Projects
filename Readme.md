@@ -1,14 +1,16 @@
 # Data Science Portfolio – Luis David Pardo Pedraza
 
 ## About Me
-Data Scientist with a background in business and experience in machine learning, data analysis, and artificial intelligence.
+Data Scientist specialized in Machine Learning, NLP, and Computer Vision, with hands-on experience building end-to-end models and analytical solutions.
 
 ---
 
 ## Featured Projects
 
 ### 🔹 Face Mask Detection (Computer Vision, Deep Learning)
-Deep learning model to classify faces with and without masks.
+Deep learning-based image classification system for real-world mask detection in healthcare environments.
+## Example Output
+![Example](link_to_image)
 
 ### 🔹 Fake News Detection (NLP)
 Comparison of word-based and writing-style-based approaches for fake news classification.
@@ -23,6 +25,16 @@ End-to-end machine learning pipeline for real estate price prediction.
 - Machine Learning
 - NLP & Computer Vision
 - Data Analysis & Visualization
+
+---
+
+## 🎯 Portfolio Focus
+
+This portfolio showcases projects across three core areas of Data Science:
+
+- Computer Vision → Image classification with deep learning  
+- Natural Language Processing → Text classification and analysis  
+- Machine Learning → Predictive modeling and structured data analysis
 
 ---
 
