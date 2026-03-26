@@ -1,7 +1,7 @@
 # Data Science Portfolio – Luis David Pardo Pedraza
 
 ## About Me
-Data Scientist specialized in Machine Learning, NLP, and Computer Vision, with hands-on experience building end-to-end models and analytical solutions.
+Data Scientist specialized in Machine Learning, NLP, and Computer Vision, with hands-on experience building end-to-end models and data-driven solutions.
 
 ---
 
@@ -15,6 +15,10 @@ Comparison of word-based and writing-style-based approaches for fake news classi
 
 ### 🔹 [Resale Price Prediction (Machine Learning)](./Machine-Learning)
 End-to-end machine learning pipeline for real estate price prediction.
+
+## 🚀 Example Project
+
+![Mask Detection](./Computer-Vision/mask_detection_example.png)
 
 ---
 
