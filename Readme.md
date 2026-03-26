@@ -7,13 +7,13 @@ Data Scientist specialized in Machine Learning, NLP, and Computer Vision, with h
 
 ## Featured Projects
 
-### 🔹 Face Mask Detection (Computer Vision, Deep Learning)
+### 🔹 [Face Mask Detection (Computer Vision, Deep Learning)](./Computer-Vision)
 Deep learning-based image classification system for real-world mask detection in healthcare environments.
 
-### 🔹 Fake News Detection (NLP)
+### 🔹 [Fake News Detection (NLP)](./NLP/Fake-News-Detection)
 Comparison of word-based and writing-style-based approaches for fake news classification.
 
-### 🔹 Resale Price Prediction (Machine Learning)
+### 🔹 [Resale Price Prediction (Machine Learning)](./Machine Learning)
 End-to-end machine learning pipeline for real estate price prediction.
 
 ---
@@ -28,11 +28,11 @@ End-to-end machine learning pipeline for real estate price prediction.
 
 ## 🎯 Portfolio Focus
 
-This portfolio showcases projects across three core areas of Data Science:
+This portfolio showcases projects across three core areas:
 
-- Computer Vision → Image classification with deep learning  
-- Natural Language Processing → Text classification and analysis  
-- Machine Learning → Predictive modeling and structured data analysis
+- Computer Vision → Deep learning for image classification  
+- NLP → Text classification and analysis  
+- Machine Learning → Predictive modeling and structured data  
 
 ---
 
