@@ -61,6 +61,7 @@ computationally efficient alternative. Combining both approaches could further i
 
 Fake-news-detection/
 │
+
 ├── README.md
 
 ├── writing_style_model.ipynb
