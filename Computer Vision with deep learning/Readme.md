@@ -16,6 +16,11 @@ The model classifies facial images into two categories:
 - Feature extraction from image data
 - Training a deep learning model for binary image classification
 
+## Example Input
+![Mask Detection Example](./mask_detection_example.png)
+## Model Performance
+![Model Accuracy](./model_accuracy.png)
+
 ---
 
 ## Methodology
