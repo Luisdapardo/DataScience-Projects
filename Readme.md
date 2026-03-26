@@ -13,7 +13,7 @@ Deep learning-based image classification system for real-world mask detection in
 ### 🔹 [Fake News Detection (NLP)](./NLP/Fake-News-Detection)
 Comparison of word-based and writing-style-based approaches for fake news classification.
 
-### 🔹 [Resale Price Prediction (Machine Learning)](./Machine Learning)
+### 🔹 [Resale Price Prediction (Machine Learning)](./Machine-Learning)
 End-to-end machine learning pipeline for real estate price prediction.
 
 ---
