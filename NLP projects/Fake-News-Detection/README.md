@@ -13,10 +13,11 @@ The objective is to evaluate whether a computationally simpler model can achieve
 
 ### 1. Writing Style Model
 - Feature extraction based on writing style characteristics
-- Includes structural and linguistic patterns (e.g., sentence structure, punctuation usage, text complexity)
+- Includes structural and linguistic patterns (e.g., Sentence length, capitalization ratio, punctuation frequency and density and sentiment
+score)
 - Focus on how something is written rather than what is written
 
-📄 Notebook: `writing_style_model.ipynb`
+Notebook: [Writing Style Model](./writing_style_model.ipynb)
 
 ---
 
@@ -25,7 +26,7 @@ The objective is to evaluate whether a computationally simpler model can achieve
 - Focus on word frequency and importance
 - Traditional NLP classification approach
 
-📄 Notebook: `word_importance_model.ipynb`
+Notebook: [Word Importance Model](./word_importance_model.ipynb)
 
 ---
 
@@ -34,6 +35,11 @@ The objective is to evaluate whether a computationally simpler model can achieve
 - Pandas, NumPy
 - Scikit-learn
 - NLP techniques (tokenization, feature extraction)
+
+## Dataset
+
+The project uses the ISOT Fake News Dataset, which contains labeled news articles classified as fake or true.  
+The dataset includes features such as title, text, subject, and publication date.
 
 ## Results & Key Insights
 
@@ -59,11 +65,7 @@ computationally efficient alternative. Combining both approaches could further i
 
 ## Repository Structure
 
-Fake-news-detection/
-│
-
+Fake-News-Detection/
 ├── README.md
-
 ├── writing_style_model.ipynb
-
 ├── word_importance_model.ipynb
