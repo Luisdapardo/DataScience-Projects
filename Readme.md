@@ -37,5 +37,5 @@ This portfolio showcases projects across three core areas:
 ---
 
 ## Contact
-- LinkedIn: [[link](https://www.linkedin.com/in/luis-david-pardo-pedraza-9a6b2514b/)]
-- Email: [luisda-p.p@hotmail.com]
+- LinkedIn: [Luis David Pardo Pedraza](https://www.linkedin.com/in/luis-david-pardo-pedraza-9a6b2514b/)
+- Email: luisda-p.p@hotmail.com
