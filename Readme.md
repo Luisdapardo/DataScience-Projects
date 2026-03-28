@@ -10,7 +10,7 @@ Data Scientist specialized in Machine Learning, NLP, and Computer Vision, with h
 ### 🔹 [Face Mask Detection (Computer Vision, Deep Learning)](./Computer-Vision)
 Deep learning-based image classification system for real-world mask detection in healthcare environments.
 
-### 🔹 [Fake News Detection (NLP)](./NLP projects/Fake-News-Detection/)
+### 🔹 [Fake News Detection (NLP)](./NLP%20projects/Fake-News-Detection)
 Comparison of word-based and writing-style-based approaches for fake news classification.
 
 ### 🔹 [Resale Price Prediction (Machine Learning)](./Machine-Learning)
